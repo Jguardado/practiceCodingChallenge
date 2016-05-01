@@ -1,7 +1,7 @@
 # practiceCodingChallenge
 
 
-####COding Challenges
+####Coding Challenges
 
 ##TGA 3 Special
 
